@@ -1,0 +1,9 @@
+psutil
+playsound
+pymsgbox
+pyautogui
+pyttsx3
+comtypes
+pycaw
+keyboard
+wmi
