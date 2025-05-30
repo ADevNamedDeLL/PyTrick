@@ -38,3 +38,51 @@ cd PyTrick
 ```
 ### 2. Clone the repository
 Install dependencies
+``` bash
+pip install -r requirements.txt
+```
+### 3. Build executables
+Use PyInstaller to generate a stealthy `.exe` 
+``` bash
+pyinstaller --noconsole --onefile script_name.py
+```
+Replace script_name.py with any prank script or the PyTrick_uninstaller.py.
+
+The output .exe will be in the dist/ directory.
+
+---
+## 🔧 Uninstalling Pranks
+
+Run the generated `PyTrick_uninstaller.exe`:
+
+- Scans for known prank executables
+- Kills active prank processes
+- Removes prank files from Startup
+
+---
+
+## 🧪 Included Pranks
+
+- `cricketmadness.exe` — Annoying sound loops
+- `ghostkeys.exe` — Random fake keystrokes
+- `mousewiggle.exe` — Slight mouse movements
+- `typing_echo.exe` — Echoes typed characters
+- `screenflicker.exe` — Brief screen flashes
+- `random_zoom.exe` — Zooms screen briefly
+- `speakup.exe` — Random TTS messages
+- `weird_beep.exe` — Beeping sounds
+- `usbghost.exe` — Fake USB connect/disconnect popups
+- `fake_odor_alert.exe` — Ridiculous alert boxes
+- ...and more!
+
+Each prank is modular and can be built/used independently.
+
+---
+
+## ⚠️ Disclaimer
+
+PyTrick is intended for **educational and entertainment** purposes only.
+
+## 💡 Author
+
+**A Dev Named DeLL**  
