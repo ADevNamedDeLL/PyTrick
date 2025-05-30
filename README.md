@@ -19,7 +19,7 @@
 
 ## 📥 Install (from Release)
 
-1. Go to the [Releases](https://github.com/YourUsername/PyTrick/releases) page.
+1. Go to the [Releases](https://github.com/ADevNamedDeLL/PyTrick/releases/tag/main_) page.
 2. Download desired prank `.exe` files or the uninstaller:
    - `cricketmadness.exe`, `ghostkeys.exe`, etc.
 3. Move prank executables to the Windows Startup folder:
