@@ -1,4 +1,6 @@
-# 🎭 PyTrick ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🎭 PyTrick 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **PyTrick** is a stealthy collection of Windows prank scripts designed to surprise users with subtle, random mischief. From ghost keystrokes to flickering screens and fake alerts, it's the ultimate prank toolkit for developers with a sense of humor.
 
